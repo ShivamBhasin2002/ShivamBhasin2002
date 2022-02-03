@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://shivam-bhasin.netlify.app](https://shivam-bhasin.netlify.app)
 
-- 📝 I regularly write articles on [https://shivam-bhasin.netlify.app/contact](https://shivam-bhasin.netlify.app/contact)
+- 📝 I regularly write articles on [My LinkedIN page](https://www.linkedin.com/in/shivam-bhasin-465233166/detail/recent-activity/shares/)
 
 - 💬 Ask me about **Antything u want to talk about so that we can all learn from each other**
 
-- 📫 How to reach me **mail me at bhasinshivam2002@gmail.com or https://shivam-bhasin.netlify.app/contact**
+- 📫 How to reach me **mail me at bhasinshivam2002@gmail.com** or **https://shivam-bhasin.netlify.app/contact**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hq0QW10x34a_y6zao-WCEm90MZJT11aZ/view](https://drive.google.com/file/d/1hq0QW10x34a_y6zao-WCEm90MZJT11aZ/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hq0QW10x34a_y6zao-WCEm90MZJT11aZ/view)
 
 - ⚡ Fun fact about me **I am very introverted when I first meet someone, but once I know you well no one can stop us from chatting all the time.**
 
