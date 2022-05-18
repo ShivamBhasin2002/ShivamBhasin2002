@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Bhasin</h1>
 <h3 align="center">I am a Full Stack Web Developer and a Growth Enthusiast.</h3>
 
-<p align="left"> <a href="https://twitter.com/shivamb52925821" target="blank"><img src="https://img.shields.io/twitter/follow/shivamb52925821?logo=twitter&style=for-the-badge" alt="shivamb52925821" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_shivambhasin" target="blank"><img src="https://img.shields.io/twitter/follow/_shivambhasin?logo=twitter&style=for-the-badge" alt="_shivambhasin" /></a> </p>
 
 - 🔭 I’m currently working on [Personal Portfolio](https://github.com/ShivamBhasin2002/portfolio)
 
